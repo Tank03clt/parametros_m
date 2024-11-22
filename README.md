@@ -1,6 +1,6 @@
 # Queries de apoio ao vídeo
 
-
+``` https://www.youtube.com/watch?v=xBzNxPHyDmQ
 dim_paises e dim_paises_all
 
 ```pq
